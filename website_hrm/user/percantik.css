@@ -1,0 +1,42 @@
+@import url("https://fonts.googleapis.com/css?family=Numans");
+th {
+  background-color: #a1887f; /* Warna biru untuk latar belakang header */
+  color: white; /* Warna teks putih di atas latar belakang biru */
+  text-align: center; /* Teks diatur ke tengah */
+  padding: 8px;
+}
+tr {
+  text-align: center; /* Teks diatur ke tengah */
+}
+h1 {
+  font-family: "Noto Sans HK", sans-serif;
+  font-size: 20px;
+  letter-spacing: 3px;
+  word-spacing: 1px;
+  color: #000000;
+  text-decoration: none;
+  font-style: normal;
+  font-variant: normal;
+  text-transform: none;
+}
+/* content-wrapper {
+  background-image: url("http://getwallpapers.com/wallpaper/full/a/5/d/544750.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 100%;
+  font-family: "Numans", sans-serif;
+}
+.card {
+  height: 370px;
+  margin-top: auto;
+  margin-bottom: auto;
+  width: 400px;
+  background-color: rgba(0, 0, 0, 0.5) !important;
+}
+.container {
+  height: 100%;
+  align-content: center;
+}
+.navbar {
+  background-color: rgba(0, 0, 0, 0.3);
+} */
